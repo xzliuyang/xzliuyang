@@ -1,7 +1,5 @@
 - 👋 Hi, I’m liuyang
-- 👀 I’m interested in the film
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me xzliuyang@outlook.com
 
 <!---
